@@ -9,7 +9,7 @@ demonstrating the Q-value overestimation bias in DQN and how DDQN mitigates it.
 ## Setup
 
 ```bash
-# Create a virtual environment (recommended)
+# Create a virtual environment 
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 # venv\Scripts\activate    # Windows
